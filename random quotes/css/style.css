@@ -1,0 +1,37 @@
+body{
+ background:url("https://i.ytimg.com/vi/ND07m8wBltQ/maxresdefault.jpg");
+}
+
+
+.qouteposition{
+  margin-bottom: 0;
+ background-color: #0588aa;
+ z-index: 9999;
+ border: 0;
+ font-size: 20px !important;
+  font-family:lobster;
+ line-height: 1.42857143 !important;
+ letter-spacing: 2px;
+ border-radius: 0;
+  color: White !important;
+  padding:-100px 40px 30px 0px;
+  background:rgba(0,0,0,0.4);
+ 
+}
+.fa{
+  cursor:pointer;
+}
+
+.font{
+ font-style:italic;
+  font-family:monospace;
+  font-weight:bolder;
+  font
+}
+.size{
+  font-size:35px;
+  margin:10px 0px 0px 10px;
+}
+.btn{
+  margin: -20px 0px 0px 10px;
+}
